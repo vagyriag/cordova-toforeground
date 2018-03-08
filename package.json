@@ -1,0 +1,17 @@
+{
+  "name": "cordova-toforeground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "node_modules\\.bin\\webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    
+  },
+  "dependencies": {
+    
+  }
+}
